@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Class-based-component/static/css/main.7c00da88.css",
+    "main.js": "/Class-based-component/static/js/main.89660c97.js",
+    "index.html": "/Class-based-component/index.html",
+    "main.7c00da88.css.map": "/Class-based-component/static/css/main.7c00da88.css.map",
+    "main.89660c97.js.map": "/Class-based-component/static/js/main.89660c97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c00da88.css",
+    "static/js/main.89660c97.js"
+  ]
+}
